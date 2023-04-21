@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+p{
+    font-size: 24px;
+    color: white;
+}
+div#central{
+    text-align: center;
+    margin-top: 150px;
+}
+div#conti{
+    border-color: azure;
+    margin-left: 46%;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+button{
+    background-color: black;
+    color: white;
+    border-color: white;
+    
+}
+
